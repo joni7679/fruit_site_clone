@@ -539,10 +539,13 @@ h5 {
 
     .product_box {
         text-align: center !important;
+        
     }
 
     .product_box img {
         width: 185px;
+        margin: auto;
+
     }
 
     .product {
